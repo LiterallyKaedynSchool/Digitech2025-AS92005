@@ -1,0 +1,13 @@
+/* Import Google Fonts font */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+body, h1, h2, h3, h4, h5, h6, html {
+    font-family: "Lexend", sans-serif;
+    background-color: #ffffff;
+    color: #000000
+}
+
+.jss-dark-mode {
+    background-color: #000000;
+    color: #ffffff
+}
