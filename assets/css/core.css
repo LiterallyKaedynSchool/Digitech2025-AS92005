@@ -22,7 +22,8 @@
 body, h1, h2, h3, h4, h5, h6, html {
     font-family: "Lexend", sans-serif;
     background-color: #ffffff;
-    color: #000000
+    color: #000000;
+    margin: 0;
 }
 
 .jss-dark-mode {
